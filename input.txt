@@ -1,0 +1,2 @@
+{1Doe,2Marinho,3Shenker,4Koponen,5Muller,6Oliveira,7Stoffel,8Stefani}
+{(1Doe-4Koponen),(3Shenker-4Koponen),(7Stoffel-4Koponen),(4Koponen-2Marinho),(4Koponen-5Muller),(4Koponen-8Stefani),(5Muller-6Oliveira),(2Marinho-5Muller),(5Muller-8Stefani)}
