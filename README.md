@@ -1,4 +1,4 @@
-#GraphMetrics
+# GraphMetrics
 
 Just some python code to analyze graphs.
 The input file path is hardcoded into the program.
